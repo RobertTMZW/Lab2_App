@@ -4,7 +4,7 @@ Flashcard app that allows user to create a new card
 ### App Walk-though
 
 
-<img src="https://imgur.com/DYIVSqA" width=200><br>
+<img src="https://imgur.com./DYIVSqA.gif" width=200><br>
 
 
 
